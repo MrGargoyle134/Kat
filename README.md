@@ -2,6 +2,9 @@
 
 --KAT v1.2--
 
+Compile:
+gcc -o kat kat.c
+
   /\_/\  (
  ( ^.^ ) _)
   \ V / (     MEOW!
